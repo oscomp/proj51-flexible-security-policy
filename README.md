@@ -26,11 +26,9 @@
 
 ### 项目导师
 
-张相锋
+卢华歆
 
-* github https://github.com/mailofzxf
-
-* email mailofzxf@aliyun.com
+* email luhuaxin1@huawei.com
 
 
 
